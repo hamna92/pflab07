@@ -1,0 +1,22 @@
+#include <iostream>
+using namespace std;
+void totaldigits(int number);
+main()
+{
+    int number;
+    cout<<"enter number";
+    cin>>number;
+    int digits;
+}
+ void totaldigits(int number)
+ {
+    while(number<=9)
+    {
+        cout<<"one digit number";
+    }
+    while(number>9 && number<100)
+    {
+        cout"two digit number";
+    }
+ }
+ 
